@@ -20,9 +20,11 @@ Every app needs a beautiful, memorable app icon that attracts people in the App 
   
   **Embrace simplicity.** In particular, avoid cramming lots of different images into your icon. Try to find a single element that expresses the essence of your app. Start with a basic shape and add details cautiously. If an icon’s content or shape is overly complex, the details can become confusing and may appear muddy at smaller sizes.
 
-  **在一般情况下，应避免使用“希腊”文字或者波浪线的建议文本。**如果你想在你的图标中显示文字，但你不希望提请注意自己的话，开始用实际文本它难以阅读萎缩或加倍层。
+  **在一般情况下，应避免使用“希腊”文字或者有波浪线的建议文本。**如果你想在你的图标中显示文字，但是又不想关注文字本身，那么就用一些真实的文字，然后通过收缩或者加倍层让这些文字不能被认清。（Instapaper）
 
   **In general, avoid using “greek” text or wavy lines to suggest text.** If you want to show text in your icon, but you don’t want to draw attention to the words themselves, start with actual text and make it hard to read by shrinking it or doubling the layers. 
+
+  **在一般情况下，应避免使用“希腊”文字或者有波浪线的建议文本。**如果你想在你的图标中显示文字，但是又不想关注文字本身，那么就用一些真实的文字，然后通过收缩或者加倍层让这些文字不能被认清。（Instapaper）
 
   **Consider creating an abstract interpretation of your app’s main idea.** Creating an artistically enhanced version of an idea or a real object can help you emphasize the aspects of the subject that you want users to notice. 
 
